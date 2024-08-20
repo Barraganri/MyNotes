@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "0dc70f8faf759d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ce3ef2bf688315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f539727052a32e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin TIC/Administrador de proyectos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d060d43a00bd139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin TIC/Administrador de proyectos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "856e7212ee37586d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin TIC/Factores ambientales de la empresa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87792cf496766846",
+    "type": "split",
+    "children": [
+      {
+        "id": "3014fadaad8bbb2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695645a8f4c68494",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39a9236c67c9dfb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77f30d03bdc4515a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbda66640f6177fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8f8d229823afce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7fd12cced5c167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Admin TIC/Factores ambientales de la empresa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ba41f46354d26f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Admin TIC/Factores ambientales de la empresa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b11c5a029c44bf3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f8738883f00fde6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Admin TIC/Factores ambientales de la empresa.md"
+              }
+            }
+          },
+          {
+            "id": "780767f4bb381b59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "371038b167645982",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "856e7212ee37586d",
+  "lastOpenFiles": [
+    "Admin TIC/Administrador de proyectos.md",
+    "Admin TIC/Factores ambientales de la empresa.md",
+    "Admin TIC/Liderazgo.md",
+    "Untitled.md",
+    "Admin TIC/Administracion TIC.md",
+    "Admin TIC",
+    "Pasted image 20240816192352.png",
+    "Pasted image 20240816192602.png",
+    "Recording 20240818233251.webm",
+    "Recording 20240818233234.webm",
+    "Untitled Kanban.md",
+    "2024-08-19.md",
+    "Journal/2024-08-19.md",
+    "Seguridad Informatica Basica/Introducción a SIB.md",
+    "Compu Grafica Avanzada/Computacion Grafica Avanzada.md",
+    "Compu Grafica Avanzada/Intro a Compu Grafica Avanzada.md",
+    "Compu Grafica Avanzada/Ejemplo VAO.png",
+    "Compu Grafica Avanzada/Compilación Vertex Shader.png",
+    "Compu Grafica Avanzada/Compilación Fragment Shader.png",
+    "Google Cloud/Google Cloud.md",
+    "Journal/Journal.md",
+    "Journal/2024-08-18.md",
+    "Journal",
+    "Compu Grafica Avanzada/Vertex Array Object.md",
+    "Compu Grafica Avanzada/Vertex Buffer Object.md",
+    "Compu Grafica Avanzada/Shader Program.md",
+    "Compu Grafica Avanzada/Shader.md",
+    "Compu Grafica Avanzada/Vertex Shader.md",
+    "Google Cloud/Google Network.md",
+    "GCloud.md",
+    "Google Cloud/Cloud Networks.md",
+    "Google Cloud/Cloud Firewall.md",
+    "VPC.md",
+    "Google Cloud/Google Cloud´s functions.md",
+    "Google Cloud/Google Cloud Shell Commands.md",
+    "Seguridad Informatica Basica",
+    "Compu Grafica Avanzada/Untitled.canvas",
+    "Compu Grafica Avanzada",
+    "Untitled.canvas",
+    "Google Cloud/Pasted image 20240620224334.png",
+    "Google Cloud"
+  ]
+}
