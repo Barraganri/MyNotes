@@ -35,16 +35,38 @@
             "id": "856e7212ee37586d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240816192602.png"
+              }
+            }
+          },
+          {
+            "id": "68c55f9665e0b99d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin TIC/Factores ambientales de la empresa.md",
+                "file": "Embebidos/Practica 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ddc6954cdf17fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo de vida Iterativo o Incremental.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin TIC/Factores ambientales de la empresa.md",
+                "file": "Ciclo de vida Iterativo o Incremental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin TIC/Factores ambientales de la empresa.md",
+                "file": "Ciclo de vida Iterativo o Incremental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin TIC/Factores ambientales de la empresa.md"
+                "file": "Ciclo de vida Iterativo o Incremental.md"
               }
             }
           },
@@ -178,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,30 +215,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "856e7212ee37586d",
+  "active": "2ddc6954cdf17fa1",
   "lastOpenFiles": [
-    "Admin TIC/Administrador de proyectos.md",
-    "Admin TIC/Factores ambientales de la empresa.md",
-    "Admin TIC/Liderazgo.md",
-    "Untitled.md",
-    "Admin TIC/Administracion TIC.md",
-    "Admin TIC",
-    "Pasted image 20240816192352.png",
+    "Embebidos/Practica 1.md",
+    "Ciclo de vida Iterativo o Incremental.md",
     "Pasted image 20240816192602.png",
+    "Embebidos",
+    "Pasted image 20240816192352.png",
+    "2024-08-20.md",
+    "Journal/Journal.md",
+    "Journal/2024-08-19.md",
+    "Journal/2024-08-18.md",
+    "Admin TIC/Liderazgo.md",
+    "Admin TIC/Administrador de proyectos.md",
+    "Admin TIC/Administracion TIC.md",
+    "Google Cloud/Google Cloud.md",
+    "Google Cloud/Cloud Networks.md",
+    "Admin TIC/Factores ambientales de la empresa.md",
+    "Untitled.md",
+    "Admin TIC",
     "Recording 20240818233251.webm",
     "Recording 20240818233234.webm",
     "Untitled Kanban.md",
     "2024-08-19.md",
-    "Journal/2024-08-19.md",
     "Seguridad Informatica Basica/Introducción a SIB.md",
     "Compu Grafica Avanzada/Computacion Grafica Avanzada.md",
     "Compu Grafica Avanzada/Intro a Compu Grafica Avanzada.md",
     "Compu Grafica Avanzada/Ejemplo VAO.png",
     "Compu Grafica Avanzada/Compilación Vertex Shader.png",
     "Compu Grafica Avanzada/Compilación Fragment Shader.png",
-    "Google Cloud/Google Cloud.md",
-    "Journal/Journal.md",
-    "Journal/2024-08-18.md",
     "Journal",
     "Compu Grafica Avanzada/Vertex Array Object.md",
     "Compu Grafica Avanzada/Vertex Buffer Object.md",
@@ -226,11 +252,7 @@
     "Compu Grafica Avanzada/Vertex Shader.md",
     "Google Cloud/Google Network.md",
     "GCloud.md",
-    "Google Cloud/Cloud Networks.md",
     "Google Cloud/Cloud Firewall.md",
-    "VPC.md",
-    "Google Cloud/Google Cloud´s functions.md",
-    "Google Cloud/Google Cloud Shell Commands.md",
     "Seguridad Informatica Basica",
     "Compu Grafica Avanzada/Untitled.canvas",
     "Compu Grafica Avanzada",

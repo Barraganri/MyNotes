@@ -5,7 +5,7 @@ up: "[[Administracion TIC]]"
 	El nexo entre el equipo y la estrategia.
 
 
-### Responsabilidades
+### **Responsabilidades**
 - Satisfacer necesidades de:
 	- Tareas
 	- Equipo
