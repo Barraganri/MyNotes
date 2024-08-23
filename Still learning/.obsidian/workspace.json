@@ -4,69 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "29ce3ef2bf688315",
+        "id": "043ec495d678f418",
         "type": "tabs",
         "children": [
           {
-            "id": "f539727052a32e8d",
+            "id": "e7c18a383a8851e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin TIC/Administrador de proyectos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d060d43a00bd139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin TIC/Administrador de proyectos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "856e7212ee37586d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240816192602.png"
-              }
-            }
-          },
-          {
-            "id": "68c55f9665e0b99d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embebidos/Practica 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ddc6954cdf17fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo de vida Iterativo o Incremental.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo de vida Iterativo o Incremental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo de vida Iterativo o Incremental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ciclo de vida Iterativo o Incremental.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,13 +160,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2ddc6954cdf17fa1",
+  "active": "e7c18a383a8851e5",
   "lastOpenFiles": [
-    "Embebidos/Practica 1.md",
-    "Ciclo de vida Iterativo o Incremental.md",
-    "Pasted image 20240816192602.png",
+    "Embebidos/Sistemas Embebidos.md",
+    "Embebidos/Codigo de semaforo practica 2.md",
+    "Admin TIC/Ciclo de vida adaptativo.md",
     "Embebidos",
+    "Admin TIC/Ciclo de Vida Adaptativo.png",
+    "Admin TIC/Ciclo de vida Iterativo o Incremental.md",
+    "Admin TIC/Interesados del Proyecto.png",
+    "Admin TIC/Recording 20240822161831.webm",
+    "Admin TIC/Interesados del Proyecto.md",
     "Pasted image 20240816192352.png",
+    "Pasted image 20240816192602.png",
+    "Untitled.md",
+    "Embebidos/Practica 1.md",
+    "Embebidos",
     "2024-08-20.md",
     "Journal/Journal.md",
     "Journal/2024-08-19.md",
@@ -232,7 +186,6 @@
     "Google Cloud/Google Cloud.md",
     "Google Cloud/Cloud Networks.md",
     "Admin TIC/Factores ambientales de la empresa.md",
-    "Untitled.md",
     "Admin TIC",
     "Recording 20240818233251.webm",
     "Recording 20240818233234.webm",
@@ -249,10 +202,6 @@
     "Compu Grafica Avanzada/Vertex Buffer Object.md",
     "Compu Grafica Avanzada/Shader Program.md",
     "Compu Grafica Avanzada/Shader.md",
-    "Compu Grafica Avanzada/Vertex Shader.md",
-    "Google Cloud/Google Network.md",
-    "GCloud.md",
-    "Google Cloud/Cloud Firewall.md",
     "Seguridad Informatica Basica",
     "Compu Grafica Avanzada/Untitled.canvas",
     "Compu Grafica Avanzada",
