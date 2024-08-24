@@ -1,4 +1,4 @@
-![[Ciclo de Vida Adaptativo.png]]
+![[Ciclo de Vida Adaptativo.png|Ciclo de Vida]]
 
 ## Google
 Predictivo

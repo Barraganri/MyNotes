@@ -1,5 +1,9 @@
 {
   "accentColor": "#ffb8f0",
-  "cssTheme": "Obsidianite",
-  "theme": "obsidian"
+  "cssTheme": "Dracula for Obsidian",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "img-desc",
+    "jusitfy"
+  ]
 }

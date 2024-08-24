@@ -18,4 +18,4 @@ up: "[[Administracion TIC]]"
 - Gestion de tiempo
 - Admin recursos
 - Adapatabilidad a cambios o conflictos
-*
+![[Pasted image 20240824105600.png}}]]

@@ -1,0 +1,5 @@
+img:not([alt*=".png"]):not([alt*=".jpg"]):not([alt*=".jpeg"]):not([alt*=".gif"]):not([alt*=".svg"]):not([alt*=".webp"]){
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

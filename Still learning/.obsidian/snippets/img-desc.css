@@ -1,0 +1,14 @@
+.image-embed:not([alt="center"]):not([alt*=".png"]):not([alt*=".jpg"]):after {
+    content: attr(alt);
+    display: block;
+    text-align: center;
+    font-size: 90%;
+    line-height: 1.4;
+    color: var(--text-faint);
+}
+
+/* .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+} */

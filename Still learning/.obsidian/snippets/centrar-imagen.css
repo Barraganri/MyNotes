@@ -1,0 +1,14 @@
+.center-image {
+	display : flex;
+	/* align-items: center; */
+	justify-content: center;
+	height: 300px;
+	border: 20px;
+}
+
+.center-image-small{
+	display : flex;
+	justify-content: center;
+	height: 200px;
+	border: 10px;
+}

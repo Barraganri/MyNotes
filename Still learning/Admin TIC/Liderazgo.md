@@ -6,3 +6,4 @@ Hay 3 tipos de liderazgo:
 - Guía
 - Acompañamiento
 Todo lo anterior con el objetivo de facilitar tareas.
+
