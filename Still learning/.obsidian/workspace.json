@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compu Grafica Avanzada/Tarea 3 Introducción 00.md",
+                "file": "Organización y Arquitectura de Computadoras/Maquinas de estado por direccionamiento implícito.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compu Grafica Avanzada/Tarea 3 Introducción 00.md",
+                "file": "Organización y Arquitectura de Computadoras/Maquinas de estado por direccionamiento implícito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compu Grafica Avanzada/Tarea 3 Introducción 00.md",
+                "file": "Organización y Arquitectura de Computadoras/Maquinas de estado por direccionamiento implícito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compu Grafica Avanzada/Tarea 3 Introducción 00.md"
+                "file": "Organización y Arquitectura de Computadoras/Maquinas de estado por direccionamiento implícito.md"
               }
             }
           },
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,21 +171,27 @@
   },
   "active": "e7c18a383a8851e5",
   "lastOpenFiles": [
+    "IMGs/Pasted image 20240826195845.png",
+    "IMGs/Pasted image 20240826195833.png",
+    "IMGs/Pasted image 20240826195818.png",
+    "IMGs/Pasted image 20240826194200.png",
+    "IMGs/Pasted image 20240826193336.png",
+    "IMGs/Pasted image 20240826192722.png",
+    "IMGs/Pasted image 20240826192253.png",
+    "IMGs/Pasted image 20240826192223.png",
+    "IMGs/Pasted image 20240826191703.png",
+    "Organización y Arquitectura de Computadoras/Organización y Arquitectura de Computadoras.md",
+    "Organización y Arquitectura de Computadoras/Maquinas de estado por direccionamiento implícito.md",
+    "Seguridad Informatica Basica/Untitled.md",
+    "Seguridad Informatica Basica/The long arc of cybersecurity history & the internet.md",
+    "Organización y Arquitectura de Computadoras",
+    "Seguridad Informatica Basica/Introducción a SIB.md",
+    "Compu Grafica Avanzada/Tarea 3 Introducción 00.md",
     "IMGs/Pasted image 20240824133256.png",
     "IMGs/Pasted image 20240824133231.png",
-    "IMGs/Pasted image 20240824133145.png",
-    "IMGs/Pasted image 20240824133114.png",
-    "IMGs/Pasted image 20240824132802.png",
-    "IMGs/Pasted image 20240824132738.png",
-    "IMGs/Pasted image 20240824132655.png",
-    "IMGs/Pasted image 20240824132329.png",
-    "IMGs/Pasted image 20240824132102.png",
-    "IMGs/Pasted image 20240824132012.png",
-    "IMGs/Pasted image 20240824131956.png",
     "IMGs",
     "New folder",
     "Embebidos/Codigo de semaforo practica 2.md",
-    "Compu Grafica Avanzada/Tarea 3 Introducción 00.md",
     "Admin TIC/Ciclo de vida adaptativo.md",
     "Admin TIC/Administracion TIC.md",
     "Admin TIC/Liderazgo.md",
@@ -209,13 +216,7 @@
     "Recording 20240818233234.webm",
     "Untitled Kanban.md",
     "2024-08-19.md",
-    "Seguridad Informatica Basica/Introducción a SIB.md",
-    "Compu Grafica Avanzada/Computacion Grafica Avanzada.md",
-    "Compu Grafica Avanzada/Intro a Compu Grafica Avanzada.md",
     "Journal",
-    "Compu Grafica Avanzada/Vertex Array Object.md",
-    "Compu Grafica Avanzada/Vertex Buffer Object.md",
-    "Seguridad Informatica Basica",
     "Compu Grafica Avanzada/Untitled.canvas",
     "Untitled.canvas"
   ]
